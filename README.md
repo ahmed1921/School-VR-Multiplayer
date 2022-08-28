@@ -1,21 +1,21 @@
 Menu Scene.
- You can login anonymously or using username. Using username, you have 
-keyboard Inputs (package from GitHub).
+ You can login anonymously or using username. Using username, you have keyboard Inputs (package from GitHub).
 • Home Scene.
 • Use left Joystick X button to view and close the UI. Space for joining and creating rooms. You can 
 choose to be student or teacher. Each room has 7 people limit with 1 teacher only and 6 
 students. You can select any avatar you like of your choice.
 • Play Scene
-• Here you can play and interact with other players. You have X and y controls for Teacher and 
-students. You can teleport, move rotate. Each player has its own spawn point, limited upto 7. 
-You can send greeting message if your student and you can mute player for yourself if your 
-teacher.
+• Here you can play and interact with other players. You have X and y controls for Teacher and students. You can teleport, move rotate. Each player has its own spawn point, limited upto 7. You can send greeting message if your student and you can mute player for yourself if your teacher.
+
 Control explanations
+
 • Use right joystick to teleport your player.
 • Use left joystick to turn around and walk.
 • Use left control X button for UI popping.
 • Use left Joystick X and Y controls in game scene to enable room leave and additional UI.
+
 Features Implemented.
+
 • Player can move, rotate and do teleportation.
 • Teacher and student specific controls and authorities.
 • Complete room system with filters like only 1 teacher allowed in room if full then room won’t be 
