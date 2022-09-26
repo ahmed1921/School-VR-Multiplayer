@@ -1,4 +1,6 @@
 ![Animation](https://user-images.githubusercontent.com/13573647/192381716-dd2a5cc7-5967-4cb5-a378-4b224cccecfc.gif)
+![Animation2](https://user-images.githubusercontent.com/13573647/192383595-cbfbd6bc-3151-400a-9bc9-243bdaeea16c.gif)
+
 
 Menu Scene.
 
