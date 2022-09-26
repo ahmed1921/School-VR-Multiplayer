@@ -1,3 +1,5 @@
+![Animation](https://user-images.githubusercontent.com/13573647/192381716-dd2a5cc7-5967-4cb5-a378-4b224cccecfc.gif)
+
 Menu Scene.
 
  You can login anonymously or using username. Using username, you have keyboard Inputs (package from GitHub).
